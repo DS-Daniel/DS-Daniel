@@ -37,6 +37,11 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
 </p>
 
+### Projects
+
+* [N-of-1 Companion](https://nof1companion.jcloud.ik-server.com/) - Web application designed to facilitate the conduct of N-of-1 therapeutic tests. It allows you to design and manage your tests, collect patient data, perform statistical analysis and many other features. [(Github repo)](https://github.com/CHUV-PCL/Nof1Companion-frontend)
+* [Alping](https://alping.web.app/) - A community web platform allowing people to share their hiking itineraries and search for hikes to do in groups while getting to know new people. [(Gitlab repo)](https://gitlab.com/alpingApp/alping-app)
+
 ### Socials
 
 <p align="left"> 
